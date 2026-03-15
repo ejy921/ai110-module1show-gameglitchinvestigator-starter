@@ -25,13 +25,16 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+ - [x] Describe the game's purpose. - A simple Streamlit number-guessing game where the player guesses a secret number within a difficulty-specific range.
+ - [x] Detail which bugs you found. - Hints were inverted (suggesting the wrong direction), the secret could be reset or generated inconsistently across reruns, and input wasn't validated against the displayed range.
+ - [x] Explain what fixes you applied. - Refactored logic into `logic_utils.py`, fixed the hint/message mapping, added input range validation, persisted the secret in `st.session_state`, and added pytest test coverage.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+<img src="demo1.png" alt="Demo 1" width="300">
+<img src="demo2.png" alt="Demo 2" width="300">
+<img src="demo3.png" alt="Demo 3" width="300">
+<img src="demo4.png" alt="Demo 4" width="300">
 
 ## 🚀 Stretch Features
 
