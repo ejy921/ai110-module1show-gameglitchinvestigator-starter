@@ -31,10 +31,10 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo
 
-<img src="Demo1.svg" alt="Demo 1" width="300">
-<img src="Demo2.svg" alt="Demo 2" width="300">
-<img src="Demo3.svg" alt="Demo 3" width="300">
-<img src="Demo4.svg" alt="Demo 4" width="300">
+<img src="Demo1.png" alt="Demo 1" width="300">
+<img src="Demo2.png" alt="Demo 2" width="300">
+<img src="Demo3.png" alt="Demo 3" width="300">
+<img src="Demo4.png" alt="Demo 4" width="300">
 
 ## 🚀 Stretch Features
 
