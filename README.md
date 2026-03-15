@@ -31,10 +31,22 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo
 
-<img src="Demo1.png" alt="Demo 1" width="300">
+
+<!-- <img src="Demo1.png" alt="Demo 1" width="300">
 <img src="Demo2.png" alt="Demo 2" width="300">
 <img src="Demo3.png" alt="Demo 3" width="300">
-<img src="Demo4.png" alt="Demo 4" width="300">
+<img src="Demo4.png" alt="Demo 4" width="300"> -->
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="Demo1.png" width="300px" alt="Demo 1" /></td>
+    <td align="center"><img src="Demo2.png" width="300px" alt="Demo 2" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Demo3.png" width="300px" alt="Demo 3" /></td>
+    <td align="center"><img src="Demo4.png" width="300px" alt="Demo 4" /></td>
+  </tr>
+</table>
 
 ## 🚀 Stretch Features
 
