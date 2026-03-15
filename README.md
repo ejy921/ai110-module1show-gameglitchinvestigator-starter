@@ -3,7 +3,7 @@
 ## 🚨 The Situation
 
 You asked an AI to build a simple "Number Guessing Game" using Streamlit.
-It wrote the code, ran away, and now the game is unplayable. 
+It wrote the code, ran away, and now the game is unplayable.
 
 - You can't win.
 - The hints lie to you.
@@ -25,16 +25,17 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
- - [x] Describe the game's purpose. - A simple Streamlit number-guessing game where the player guesses a secret number within a difficulty-specific range.
- - [x] Detail which bugs you found. - Hints were inverted (suggesting the wrong direction), the secret could be reset or generated inconsistently across reruns, and input wasn't validated against the displayed range.
- - [x] Explain what fixes you applied. - Refactored logic into `logic_utils.py`, fixed the hint/message mapping, added input range validation, persisted the secret in `st.session_state`, and added pytest test coverage.
+- [x] Describe the game's purpose. - A simple Streamlit number-guessing game where the player guesses a secret number within a difficulty-specific range.
+- [x] Detail which bugs you found. - Hints were inverted (suggesting the wrong direction), the secret could be reset or generated inconsistently across reruns, and input wasn't validated against the displayed range.
+- [x] Explain what fixes you applied. - Refactored logic into `logic_utils.py`, fixed the hint/message mapping, added input range validation, persisted the secret in `st.session_state`, and added pytest test coverage.
 
 ## 📸 Demo
 
-<img src="demo1.png" alt="Demo 1" width="300">
-<img src="demo2.png" alt="Demo 2" width="300">
-<img src="demo3.png" alt="Demo 3" width="300">
-<img src="demo4.png" alt="Demo 4" width="300">
+![Demo 1]
+<img src="demo1.svg" alt="Demo 1" width="300">
+<img src="demo2.svg" alt="Demo 2" width="300">
+<img src="demo3.svg" alt="Demo 3" width="300">
+<img src="demo4.svg" alt="Demo 4" width="300">
 
 ## 🚀 Stretch Features
 
